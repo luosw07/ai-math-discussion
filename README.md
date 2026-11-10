@@ -1,5 +1,11 @@
 # AI & Math Discussion
 
+## luosw07 的学习记录
+
+[AI Foundations 学习主页](learning/ai-foundations/README.md) · [两周 TODO](TODO.md) · [每日记录](learning/ai-foundations/daily/2026-11-10.md)
+
+以下保留课程原始说明。
+
 An AI and mathematics discussion group at the University of Science and Technology of China (USTC).
 
 Hi everyone! This group is built around self-study and discussion, with no scheduled lectures. I will provide topics and reference materials; you will study independently and write up what you have learned to demonstrate your understanding.
