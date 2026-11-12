@@ -1,6 +1,6 @@
 # TODO：AI Foundations 两周学习与每日上传
 
-状态：**进行中｜学习准备已完成，个人阅读与练习待推进**  
+状态：**进行中｜LeeDL 第 1—3 章已阅读，第一篇学习笔记已完成**  
 建立日期：2026-11-10  
 建议周期：2026-11-10—2026-11-23。日期是个人排期，课程未公布精确截止日。
 
@@ -17,6 +17,12 @@
 - [ ] 阅读首日导读，亲自运行实验，填写今天的个人理解与疑问。
 
 入口：[学习主页](learning/ai-foundations/README.md) · [资料导航](learning/ai-foundations/resources.md) · [自测清单](learning/ai-foundations/self-check.md) · [今日记录](learning/ai-foundations/daily/2026-11-10.md)
+
+## 已记录的学习进展
+
+- [x] 2026-11-11—11-12：阅读 LeeDL 第 1—3 章，理解深度学习训练流程与 Adam 的基本思想。
+- [x] 完成英文笔记 [Note 1: Deep Learning and Adam](learning/ai-foundations/notes/2026-11-11-12-deep-learning-and-adam.md)。
+- [ ] 在同一个小任务上比较 SGD、Momentum 与 Adam，分别调整学习率并记录训练和验证结果。
 
 ## 两周计划
 

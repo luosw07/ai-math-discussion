@@ -2,7 +2,7 @@
 
 ## luosw07 的学习记录
 
-[AI Foundations 学习主页](learning/ai-foundations/README.md) · [两周 TODO](TODO.md) · [每日记录](learning/ai-foundations/daily/2026-11-10.md)
+[AI Foundations 学习主页](learning/ai-foundations/README.md) · [两周 TODO](TODO.md) · [Note 1: Deep Learning and Adam](learning/ai-foundations/notes/2026-11-11-12-deep-learning-and-adam.md) · [最新学习记录](learning/ai-foundations/daily/2026-11-11-12.md)
 
 以下保留课程原始说明。
 
